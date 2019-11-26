@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1554566736 source:/home/mohamedabobakr/Documents/codeblocksProjects/Lexical_analyzer/main.cpp
+	<iostream>
+	"Parser.h"
+
+1554636236 /home/mohamedabobakr/Documents/codeblocksProjects/Lexical_analyzer/include/Parser.h
+	<bits/stdc++.h>
+
+1554558806 source:/home/mohamedabobakr/Documents/codeblocksProjects/Lexical_analyzer/errors.cpp
+	"errors.h"
+
+1554565224 /home/mohamedabobakr/Documents/codeblocksProjects/Lexical_analyzer/errors.h
+	<bits/stdc++.h>
+
+1554636530 source:/home/mohamedabobakr/Documents/codeblocksProjects/Lexical_analyzer/src/Parser.cpp
+	"Parser.h"
+	"../errors.h"
+
+1554635075 source:/home/mohamedabobakr/Documents/codeblocksProjects/Lexical_analyzer/src/regex_parser.cpp
+	"regex_parser.h"
+
+1554637525 /home/mohamedabobakr/Documents/codeblocksProjects/Lexical_analyzer/include/regex_parser.h
+	<bits/stdc++.h>
+
